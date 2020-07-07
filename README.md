@@ -37,7 +37,6 @@ div{
 <body>
     <h1>SARVASAMPANNA KSHETRA</h1>
 	<h2>World of HOLY Place</h2>
-	
 	<p>
 	<h3>Objectives of Sarvasampanna Kshetra:</h3>
 	<ul>
@@ -48,7 +47,6 @@ div{
 		<Li>To satisfy every need of pilgrim</Li>
 	</ul>
 	</br>
-	
 	</p>
 	<p>
 	<h4>Features of SarvasampannaKshetra are:</h4>
@@ -82,6 +80,6 @@ div{
 		Contact us:<a ref="tell:9568975423">9969498588</a>
 	</p>
 	<marque>Visit temples all over India with comfort at low price</marque>
-	</body>
-	</html>
+ </body>
+ </html>
 	
