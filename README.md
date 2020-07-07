@@ -4,7 +4,7 @@
 	<meta charset="utf-8"/>
 	<style type="text/css">
 	body{
-		background colour:#fff;
+		background colour:#ff9933;
 		margin:0;
 		padding:0;
 		font family:"open sans",Droid serif,Lato;
@@ -14,7 +14,7 @@ div{
 	width=600px;
 	margin=5em auto;
 	padding=50px;
-	background_color:#fff;
+	background_color:#ff9933;
 	borderradius:1em;
 }
 a:link,avisited{
@@ -23,7 +23,7 @@ a:link,avisited{
 }
 @media(max_width:700PX){
 body{
-	background_color:#fff;
+	background_color:#ff9933;
 }
 div{
 	width:auto;
@@ -33,10 +33,13 @@ div{
     }
 }
 </style>
+</head>
 <body>
-	<h1>World of HOLY Place</h1>
+    <h1>SARVASAMPANNA KSHETRA</h1>
+	<h2>World of HOLY Place</h2>
+	
 	<p>
-	<h2>Objectives of Sarvasampanna Kshetra:<\h2>
+	<h3>Objectives of Sarvasampanna Kshetra:</h3>
 	<ul>
 		<Li>People can book online tickets of all the temples in India using a single app</Li>
 		<Li>More people can visit holy places all over india with all the comforts</Li>
@@ -45,10 +48,10 @@ div{
 		<Li>To satisfy every need of pilgrim</Li>
 	</ul>
 	</br>
-	<img src="img/sarvasampannakshetra.jpg" height=100% width=100%>
+	
 	</p>
 	<p>
-	<h3>Features of SarvasampannaKshetra are:</h3>
+	<h4>Features of SarvasampannaKshetra are:</h4>
 	<ul>
 		<Li>Easy to operate the app</Li>
 		<Li>People can book tickets of all temples in India</Li>
@@ -69,14 +72,16 @@ div{
         <Li>First aid and emergency services are available</Li>
      </ul>
     <p>
-    <h4>Offers:</h4>
+    <h5>Offers:</h5>
     <ul>
 		<Li>10% discount on first time usage of this app</Li>
 		<Li>30% discount during festival and occasion times</Li>
 	</ul>
-	<title>SarvasampannaKshetra</title>
+	<h6>SarvasampannaKshetra</h6>
 	<p>
 		Contact us:<a ref="tell:9568975423">9969498588</a>
 	</p>
 	<marque>Visit temples all over India with comfort at low price</marque>
 	</body>
+	</html>
+	
